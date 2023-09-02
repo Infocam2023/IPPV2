@@ -457,7 +457,7 @@
 				<Title>meteoalerta_2015</Title>
 				<Abstract>GH:meteoalerta_2015 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Infocam2023/IPPV2/releases/download/Map_Download/meteoalerta_2015.zip˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Infocam2023/IPPV2/releases/download/Map_Download/meteoalerta_2015.zip˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.457600507724922" miny="38.000840712343894" maxx="-0.834962728578903" maxy="41.32766950204931"></LatLonBoundingBox>
@@ -477,7 +477,7 @@
 				<Title>ippv2d0</Title>
 				<Abstract>GH:ippv2d0 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.635175432359371" miny="37.99104622621221" maxx="-0.6268303825769492" maxy="41.53168089824262"></LatLonBoundingBox>
@@ -497,7 +497,7 @@
 				<Title>ippv2d1</Title>
 				<Abstract>GH:ippv2d1 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.635175432359371" miny="37.99104622621221" maxx="-0.6268303825769492" maxy="41.53168089824262"></LatLonBoundingBox>
@@ -517,7 +517,7 @@
 				<Title>ippgfsd0</Title>
 				<Abstract>GH:ippgfsd0 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
@@ -537,7 +537,7 @@
 				<Title>ippgfsd1</Title>
 				<Abstract>GH:ippgfsd1 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
@@ -557,7 +557,7 @@
 				<Title>ippgfsd2</Title>
 				<Abstract>GH:ippgfsd2 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
@@ -577,7 +577,7 @@
 				<Title>ippgfsd3</Title>
 				<Abstract>GH:ippgfsd3 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
@@ -597,7 +597,7 @@
 				<Title>anomaliaclimatica</Title>
 				<Abstract>GH:anomaliaclimatica ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
@@ -617,7 +617,7 @@
 				<Title>estres_hidrico</Title>
 				<Abstract>GH:estres_hidrico ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
@@ -637,7 +637,7 @@
 				<Title>estres_termico</Title>
 				<Abstract>GH:estres_termico ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
@@ -657,7 +657,7 @@
 				<Title>ippgfsd4</Title>
 				<Abstract>GH:ippgfsd4 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
@@ -677,7 +677,7 @@
 				<Title>ippgfsd5</Title>
 				<Abstract>GH:ippgfsd5 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
@@ -697,7 +697,7 @@
 				<Title>ippgfsd6</Title>
 				<Abstract>GH:ippgfsd6 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸6</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.634674517374154" miny="37.981862946871956" maxx="-0.7050002027274452" maxy="41.44149263947141"></LatLonBoundingBox>
